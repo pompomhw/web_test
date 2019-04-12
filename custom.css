@@ -41,15 +41,17 @@ h1 {
     margin-left: auto;
     margin-right: auto;
     /* Block display (more on this later) */
-    display: block;
+    display: block
+    block-shadow: 10px 10px 5px ;
+    
   }
-
   /* All p tags */
   p {
     text-align: center;
     font-size: 45px;
     /* Bold the text. */
     font-weight: bold;
+    color:gray;
   }
 
   /* All unordered list tags */
